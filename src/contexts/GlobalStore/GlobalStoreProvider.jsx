@@ -13,6 +13,7 @@ export default function GlobalStoreProvider({ children }) {
     const parsePdf = async () => {
         if (inputFile) {
             try {
+                console.log(inputFile);
                 const formData = new FormData();
                 formData.append("inputFile", inputFile);
 
