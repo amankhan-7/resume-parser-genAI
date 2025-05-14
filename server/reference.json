@@ -1,0 +1,79 @@
+{
+    "personalInfo":{
+        "name": "",
+        "email": "",
+        "phone": "",
+        "address":"",
+        "websites":{
+            "website1": "website1-name",
+            "website2": "website2-name, and so on..."
+        },
+        "summary": "summary of the resume"
+    },
+
+    "education":[
+        {
+            "institute": "",
+            "course": "",
+            "startDate":"",
+            "endDate":"",
+            "score":""
+        },
+        {
+            "institute": "",
+            "course": "",
+            "startDate":"",
+            "endDate":"",
+            "score":""
+        }
+    ],
+
+    "workExperience":[
+        {
+            "company":"",
+            "position":"",
+            "startDate":"",
+            "endDate":"",
+            "technologies":"all the tech that is being used",
+            "summary":""         
+        },
+        {
+            "company":"",
+            "position":"",
+            "startDate":"",
+            "endDate":"",
+            "technologies":"all the tech that is being used",
+            "summary":""         
+        }
+    ],
+
+    "skills":["skill1", "skill2", "end so on..."],
+
+    "projects":[
+        {
+            "name":"",
+            "summary":"",
+            "technologies":"all the tech that is being used"
+        },
+        {
+            "name":"",
+            "summary":"",
+            "technologies":"all the tech that is being used"
+        }
+    ],
+
+    "certifications":[
+        {
+            "name":"",
+            "summary":""
+        },
+        {
+            "name":"",
+            "summary":""
+        }
+    ],
+
+    "additionalData":{
+        "key":"value"
+    }
+}
